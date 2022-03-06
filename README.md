@@ -1,4 +1,4 @@
-Hi i'm anto426 i like programming in my free time and i know : 
+:wave: Hi i'm anto426 i like programming in my free time and i know : 
 - javascript 
 - c ++ 
 - python 
