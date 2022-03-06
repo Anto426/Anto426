@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi i'm anto426 i like programming in my free time and i know : 
+- javascript 
+- c ++ 
+- python 
+- and a litte html and css 
 
-<!--
-**Anto426/Anto426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My state : 
 
-Here are some ideas to get you started:
+[![Anto426's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anto426&show_icons=true&theme=radical)](https://github.com/Anto426)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My preferred languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anto426&langs_count=8&show_icons=true&theme=radical)](https://github.com/Anto426/github-readme-stats)
