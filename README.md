@@ -10,4 +10,4 @@ My state :
 
 My preferred languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anto426&langs_count=8&show_icons=true&theme=radical)](https://github.com/Anto426/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anto426&langs_count=8&show_icons=true&theme=radical)](https://github.com/Anto426)
