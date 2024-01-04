@@ -1,5 +1,3 @@
-<img src="img/ruby.gif" style="border-radius: 50%;">
-
 # 💫 About Me:
 
 💬 Hi, i'm a 17 year old boy who like to program in his free time  <br>
