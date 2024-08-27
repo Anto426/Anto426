@@ -1,3 +1,5 @@
+# 💫 About Me:
+💔 <br>
 # 💻 Tech Stack:
 ![Javascript](https://img.shields.io/badge/Javascript-brightgreen?style=for-the-badge&logo=javascript&color=blue)
 ![C](https://img.shields.io/badge/C-brightgreen?style=for-the-badge&logo=c&color=blue)
