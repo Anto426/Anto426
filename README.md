@@ -1,7 +1,7 @@
 <div align="center">
         <h3><b>—͟͞͞💫】About Me:</b></h3>
         <div>
-          <h3>I'm a high school student who like programming 💻✨</h3>
+          <p>I'm a high school student who like programming 💻✨</p>
         </div>
         <hr></hr>
         <h3><b>—͟͞͞📊】My Skill</b></h3>
@@ -30,7 +30,5 @@
         <hr></hr>
         <h3><b>—͟͞͞📊】GitHub Stats:</b></h3>
         <img src="https://gh-readme-profile.vercel.app/api?username=anto426&theme=dark&border_width=0&border_radius=20&title_color=ed14ae&text_color=ffffff&icon_color=ed14ae">
-
-
 
 </div>
