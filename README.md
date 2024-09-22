@@ -1,22 +1,36 @@
-# 💫 About Me:
-🖤 <br>
-# 💻 Tech Stack:
-![Javascript](https://img.shields.io/badge/Javascript-brightgreen?style=for-the-badge&logo=javascript&color=blue)
-![C](https://img.shields.io/badge/C-brightgreen?style=for-the-badge&logo=c&color=blue)
-![C++](https://img.shields.io/badge/C%2B%2B-brightgreen?style=for-the-badge&logo=c%2B%2B&color=blue)
-![Java](https://img.shields.io/badge/Java-brightgreen?style=for-the-badge&logo=oracle&color=blue)
-![kotlin](https://img.shields.io/badge/kotlin-brightgreen?style=for-the-badge&logo=kotlin&color=blue)
-![Python](https://img.shields.io/badge/Python-brightgreen?style=for-the-badge&logo=Python&color=blue)
-
-# 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anto426&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Github Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anto426&theme=dark&hide_border=true" alt="Contributions">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anto426&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+        <h3><b>—͟͞͞💫】About Me:</b></h3>
+        <div>
+          <h3>I'm a high school student who like programming 💻✨</h3>
+        </div>
+        <hr></hr>
+        <h3><b>—͟͞͞📊】My Skill</b></h3>
+        <div>
+            <p>
+                <h4>
+        🌐 Language 🌐
+                </h4>
+                <a href="https://skillicons.dev">
+                    <img src="https://skillicons.dev/icons?i=js,c,cpp,java,kotlin,py,html,css" />
+                </a>
+                <h4>
+        🖥️ Framework 🖥️
+                </h4>
+                <a href="https://skillicons.dev">
+                    <img src="https://skillicons.dev/icons?i=nodejs" />
+                </a>
+                <h4>
+        🛠️ Tools 🛠️
+                </h4>
+                <a href="https://skillicons.dev">
+                    <img src="https://skillicons.dev/icons?i=vscode,git,androidstudio,blender" />
+                </a>
+            </p>
+        </div>
+        <hr></hr>
+        <h3><b>—͟͞͞📊】GitHub Stats:</b></h3>
+        <img src="https://gh-readme-profile.vercel.app/api?username=anto426&theme=dark&border_width=0&border_radius=20&title_color=ed14ae&text_color=ffffff&icon_color=ed14ae">
+
+
+
 </div>
-
-
-
-
-
