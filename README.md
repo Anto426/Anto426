@@ -28,7 +28,7 @@
             </p>
         </div>
         <hr></hr>
-        <h3><b>—͟͞͞📊】visitors:</b></h3>
+        <h3><b>—͟͞͞🔍】visitors:</b></h3>
         <img src="https://count.getloli.com/get/@:anto426" alt="" />
         <hr></hr>
         <h3><b>—͟͞͞📊】GitHub Stats:</b></h3>
