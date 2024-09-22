@@ -28,7 +28,11 @@
             </p>
         </div>
         <hr></hr>
+        <h3><b>—͟͞͞📊】visitors:</b></h3>
+        <img src="https://count.getloli.com/get/@:anto426" alt="" />
+        <hr></hr>
         <h3><b>—͟͞͞📊】GitHub Stats:</b></h3>
-        <img src="https://gh-readme-profile.vercel.app/api?username=anto426&theme=dark&border_width=0&border_radius=20&title_color=ed14ae&text_color=ffffff&icon_color=ed14ae">
+        <img src="https://gh-readme-profile.vercel.app/api?username=anto426&theme=dark&border_width=0&border_radius=20&title_color=ed14ae&text_color=ffffff&icon_color=ed14ae"/>
 
 </div>
+
