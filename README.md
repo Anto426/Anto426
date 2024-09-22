@@ -10,19 +10,16 @@
                 <h4>
         🌐 Language 🌐
                 </h4>
-                <a href="https://skillicons.dev">
                     <img src="https://skillicons.dev/icons?i=js,c,cpp,java,kotlin,py,html,css" />
                 </a>
                 <h4>
-        🖥️ Framework 🖥️
+        🖥️ Framework and other 🖥️
                 </h4>
-                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=nodejs" />
+                    <img src="https://skillicons.dev/icons?i=discordjs,nodejs,bootstrap" />
                 </a>
                 <h4>
         🛠️ Tools 🛠️
                 </h4>
-                <a href="https://skillicons.dev">
                     <img src="https://skillicons.dev/icons?i=vscode,git,androidstudio,blender" />
                 </a>
             </p>
@@ -32,7 +29,7 @@
         <img src="https://count.getloli.com/get/@:anto426" alt="" />
         <hr></hr>
         <h3><b>—͟͞͞📊】GitHub Stats:</b></h3>
-        <img src="https://gh-readme-profile.vercel.app/api?username=anto426&theme=dark&border_width=0&border_radius=20&title_color=ed14ae&text_color=ffffff&icon_color=ed14ae"/>
+        <img src="https://gh-readme-profile.vercel.app/api?username=Anto426&theme=transparent&border_width=0&border_radius=20&title_color=b50ded&icon_color=b50ded"/>
 
 </div>
 
