@@ -1,35 +1,45 @@
 <div align="center">
-        <h3><b>—͟͞͞💫】About Me:</b></h3>
+    <div>
+        <h3><b>—͟͞͞—͟͞͞💫 About Me:</b></h3>
+        <p>I'm a high school student who likes programming 💻✨</p>
+    </div>
+    <hr>
+    <div>
+        <h3><b>—͟͞͞—͟͞͞🔗 My site</b><br></h3>
+        <p><a href="https://anto426.github.io/Antosite/">Click here</a></p>
+    </div>
+    <hr>
+    <div>
+        <h3><b>—͟͞͞—͟͞͞📊 My Skills</b></h3>
         <div>
-          <p>I'm a high school student who like programming 💻✨</p>
+            <h4>🌐 Language 🌐</h4>
+            <img
+                src="https://skillicons.dev/icons?i=js,c,cpp,java,kotlin,py,html,css"
+                alt="Languages">
         </div>
-        <hr></hr>
-        <h3><b>—͟͞͞📊】My Skill</b></h3>
         <div>
-            <p>
-                <h4>
-        🌐 Language 🌐
-                </h4>
-                    <img src="https://skillicons.dev/icons?i=js,c,cpp,java,kotlin,py,html,css" />
-                </a>
-                <h4>
-        🖥️ Framework and other 🖥️
-                </h4>
-                    <img src="https://skillicons.dev/icons?i=discordjs,nodejs,bootstrap" />
-                </a>
-                <h4>
-        🛠️ Tools 🛠️
-                </h4>
-                    <img src="https://skillicons.dev/icons?i=vscode,git,androidstudio,blender" />
-                </a>
-            </p>
+            <h4>🖥️ Frameworks and other 🖥️</h4>
+            <img src="https://skillicons.dev/icons?i=discordjs,nodejs,bootstrap"
+                alt="Frameworks">
         </div>
-        <hr></hr>
-        <h3><b>—͟͞͞🔍】visitors:</b></h3>
-        <img src="https://count.getloli.com/get/@:anto426?theme=rule34" alt="" />
-        <hr></hr>
-        <h3><b>—͟͞͞📊】GitHub Stats:</b></h3>
-        <img src="https://gh-readme-profile.vercel.app/api?username=Anto426&theme=transparent&border_width=0&border_radius=20&bg_color=cdb698&title_color=871b4d&icon_color=871b4d"/>
-
+        <div>
+            <h4>🛠️ Tools 🛠️</h4>
+            <img
+                src="https://skillicons.dev/icons?i=vscode,git,androidstudio,blender"
+                alt="Tools">
+        </div>
+    </div>
+    <hr>
+    <div>
+        <h3><b>—͟͞͞🔍 Visitors:</b></h3>
+        <img src="https://count.getloli.com/get/@:anto426?theme=rule34"
+            alt="Visitor count">
+        <hr>
+    </div>
+    <div>
+        <h3><b>—͟͞͞📊 GitHub Stats:</b></h3>
+        <img
+            src="https://gh-readme-profile.vercel.app/api?username=Anto426&theme=transparent&border_width=0&border_radius=20&bg_color=cdb698&title_color=871b4d&icon_color=871b4d"
+            alt="GitHub Stats">
+    </div>
 </div>
-
