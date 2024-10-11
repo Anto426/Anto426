@@ -28,6 +28,12 @@
                 src="https://skillicons.dev/icons?i=vscode,git,androidstudio,blender"
                 alt="Tools">
         </div>
+        <div>
+            <h4>🖥️ OS 🖥️</h4>
+            <img
+                src="https://skillicons.dev/icons?i=windows,arch"
+                alt="Tools">
+        </div>
     </div>
     <hr>
     <div>
