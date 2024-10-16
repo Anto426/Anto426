@@ -10,7 +10,7 @@
     </div>
     <hr>
     <div>
-        <h3><b>—͟͞͞—͟͞͞📊 My Skills</b></h3>
+        <h3><b>—͟͞͞—͟͞͞—͟͞͞📊 My Skills</b></h3>
         <div>
             <h4>🌐 Language 🌐</h4>
             <img
@@ -37,13 +37,13 @@
     </div>
     <hr>
     <div>
-        <h3><b>—͟͞͞🔍 Visitors:</b></h3>
+        <h3><b>—͟͞͞—͟͞͞🔍 Visitors:</b></h3>
         <img src="https://count.getloli.com/get/@:anto426?theme=rule34"
             alt="Visitor count">
         <hr>
     </div>
     <div>
-        <h3><b>—͟͞͞📊 GitHub Stats:</b></h3>
+        <h3><b>—͟͞͞—͟͞͞📊 GitHub Stats:</b></h3>
         <img
             src="https://gh-readme-profile.vercel.app/api?username=Anto426&theme=transparent&border_width=0&border_radius=20&bg_color=cdb698&title_color=871b4d&icon_color=871b4d"
             alt="GitHub Stats">
