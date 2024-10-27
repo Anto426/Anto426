@@ -1,5 +1,6 @@
 <div align="center">
     <div>
+    <img src="https://avatars.githubusercontent.com/u/87477585?v=4" style="height:140px; border-radius:100px; border: 1px solid white">
         <h3><b>—͟͞͞—͟͞͞💫 About Me:</b></h3>
         <p>I'm a high school student who likes programming 💻✨</p>
     </div>
