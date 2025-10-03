@@ -4,7 +4,8 @@
 
 <h2>💫 About Me</h2>
 <p style="line-height:1.65; font-size:1.05em; max-width: 700px; margin-left: auto; margin-right: auto;">
-    <strong style="font-size:1.15em;">I'm a high school student who likes programming 💻✨</strong><br>
+    <strong style="font-size:1.15em;">I'm a college student passionate about the tech-universe, specifically computer-building, programming, and gaming.
+My hobby is to create projects that challenge all of this three skills</strong><br>
 
 </p>
 
