@@ -14,15 +14,26 @@
   <img src="./asset/divider.gif" width="440" height="40" />
 </p>
 
-# <img src="./asset/icon.gif" width="60px" /> About me; 
-
+# <img src="./asset/icon.gif" width="60px" /> About me;
 
 ```sh
 root@anto426: ~/my_readme (main⚡)$ neofetch
+
+⡿⣡⣿⣿⡟⡼⡁⠁⣰⠂⡾⠉⢨⣿⠃⣿⡿⠍⣾⣟⢤⣿⢇⣿⢇⣿⣿⢿            root@anto426
+⣱⣿⣿⡟⡐⣰⣧⡷⣿⣴⣧⣤⣼⣯⢸⡿⠁⣰⠟⢀⣼⠏⣲⠏⢸⣿⡟⣿            --------------------
+⣿⣿⡟⠁⠄⠟⣁⠄⢡⣿⣿⣿⣿⣿⣿⣦⣼⢟⢀⡼⠃⡹⠃⡀⢸⡿⢸⣿            OS: AntoOS
+⣿⣿⠃⠄⢀⣾⠋⠓⢰⣿⣿⣿⣿⣿⣿⠿⣿⣿⣾⣅⢔⣕⡇⡇⡼⢁⣿⣿            Host:Anto426@Life
+⣿⡟⠄⠄⣾⣇⠷⣢⣿⣿⣿⣿⣿⣿⣿⣭⣀⡈⠙⢿⣿⣿⡇⡧⢁⣾⣿⣿            Uptime: 2OY
+⣿⡇⠄⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢻⠇⠄⠄⢿⣿⡇⢡⣾⣿⣿⣿            Shellv: 20.0
+⣿⣷⢰⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⢰⣧⣀⡄⢀⠘⡿⣰⣿⣿⣿⣿⣿            UserName: Anto426
+⢹⣿⢸⣿⣿⠟⠻⢿⣿⣿⣿⣿⣿⣿⣿⣶⣭⣉⣤⣿⢈⣼⣿⣿⣿⣿⣿⣿            Whoami: People
+⢸⠇⡜⣿⡟⠄⠄⠄⠈⠙⣿⣿⣿⣿⣿⣿⣿⣿⠟⣱⣻⣿⣿⣿⣿⣿⠟⠁            Location: Italy
+⠄⣰⡗⠹⣿⣄⠄⠄⠄⢀⣿⣿⣿⣿⣿⣿⠟⣅⣥⣿⣿⣿⣿⠿⠋⠄⠄⣾            Hobbies: Anime, Manga, Music, Coding
+⠜⠋⢠⣷⢻⣿⣿⣶⣾⣿⣿⣿⣿⠿⣛⣥⣾⣿⠿⠟⠛⠉⠄⠄ . .
 ```
 
-<p align="right">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=23&duration=2998&pause=1000&color=EA1CF3&multiline=true&repeat=false&width=700&height=300&lines=My+Profile;-------------------------------;Host%3A+anto426.com;Username%3A+anto426;WhoamI%3A+Normal+People.;Pronouns%3A+He-Him.;Location%3A+italy;Hobbies%3A+Watching+Anime%2C+Read+Manga%2C+and+Listening+Music" alt="Typing SVG" /></a>
+<p align="center">
+  <img src="./asset/divider.gif" width="440" height="40" />
 </p>
 
 <icon>
