@@ -14,12 +14,8 @@
   <img src="./asset/divider.gif" width="440" height="40" />
 </p>
 
-<p style="display: flex; align-items: center;">
-  <img src="./asset/icon.gif" width="70" style="margin-right: 12px;" />
-  <span style="font-size: 38px; font-weight: bold;">
-    About me
-  </span>
-</p>
+# <img src="./asset/icon.gif" width="60px" /> About me; 
+
 
 ```sh
 root@anto426: ~/my_readme (main⚡)$ neofetch
