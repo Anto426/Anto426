@@ -14,9 +14,9 @@
   <img src="./asset/divider.gif" width="440" height="40" />
 </p>
 
-<p>
-  <img src="./asset/icon.gif" width="70" style="vertical-align: middle; margin-right: 10px;" />
-  <span style="font-size: 28px; font-weight: bold; vertical-align: middle;">
+<p style="display: flex; align-items: center;">
+  <img src="./asset/icon.gif" width="70" style="margin-right: 10px;" />
+  <span style="font-size: 28px; font-weight: bold;">
     About me
   </span>
 </p>
