@@ -67,7 +67,33 @@ root@anto426: ~/my_readme (main⚡)$ skill --list
 
 # <img src="./asset/icon3.gif" width="70px" /> Statistics;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anto426&layout=compact&theme=tokyonight)
+<!-- commit-stats:start -->
+
+```sh
+root@anto426: ~/my_readme (main)$ git stats --since 30d
+
+Loading commit activity...
+
+> overview:
+  - profile: Anto426
+  - active repositories: ...
+  - coding days: ...
+  - latest commit: ...
+
+> activity:
+  - last 24h: ...
+  - last 7 days: ...
+  - last 30 days: ...
+
+> top repositories:
+  - loading...
+
+> status:
+  - last update: pending
+  - source: github api (Anto426)
+```
+
+<!-- commit-stats:end -->
 
 <p align="center">
   <img src="./asset/divider.gif" width="440" height="40" />
