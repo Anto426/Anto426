@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/87477585?v=4&w=300&h=300&mask=circle&fit=cover" 
-    width="100"
+    width="200"
   />
 </p>
 
@@ -68,6 +68,7 @@ root@anto426: ~/my_readme (main⚡)$ skill --list
 # <img src="./asset/icon3.gif" width="70px" /> Statistics;
 
 <!-- commit-stats:start -->
+
 ```sh
 root@Anto426: ~/my_readme (main⚡)$ btop --preset commits --range 30d
 
@@ -94,13 +95,20 @@ root@Anto426: ~/my_readme (main⚡)$ btop --preset commits --range 30d
 status: synced 2026-03-19 22:58 UTC
 
 ```
+
 <!-- commit-stats:end -->
 
 <p align="center">
   <img src="./asset/divider.gif" width="440" height="40" />
 </p>
 
+# <img src="./asset/icon3.gif" width="70px" /> Visitors;
+
 <icon>
 <p align="center">
   <img src="https://count.getloli.com/get/@anto426?theme=moebooru"/>
+</p>
+
+<p align="center">
+  <img src="./asset/divider.gif" width="440" height="40" />
 </p>
