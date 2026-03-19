@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/87477585?v=4&w=200&h=200&mask=circle&fit=cover" 
-    width="80"
+    width="100"
   />
 </p>
 
