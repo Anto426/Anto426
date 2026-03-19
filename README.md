@@ -106,7 +106,7 @@ status: synced 2026-03-19 22:58 UTC
 
 <icon>
 <p align="center">
-  <img src="https://count.getloli.com/get/@anto426?theme=moebooru"/>
+  <img src="https://count.getloli.com/@anto426?name=anto426&theme=booru-lisu&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
 </p>
 
 <p align="center">
