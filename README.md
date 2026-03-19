@@ -1,75 +1,25 @@
-<div align="center">
-
-<img src="https://avatars.githubusercontent.com/u/87477585?v=4" width="160" style="border-radius:50%; border:4px solid #6a0dad; margin-bottom:15px; box-shadow: 0 8px 30px rgba(106,13,173,0.25);" alt="Profile Picture">
-
-<h2 style="color:#6a0dad;">💫 About Me</h2>
-<p style="line-height:1.65; font-size:1.05em; max-width:700px; margin:0 auto 20px; color:#2b0033;">
-    <strong style="font-size:1.12em; color:#3a0050;">
-        I'm a college student passionate about the tech-universe—computer-building, programming and gaming. 
-        I build projects that challenge and combine these three skills.
-    </strong>
+<p align="left">
+  <img 
+    src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/87477585?v=4&w=200&h=200&mask=circle&fit=cover" 
+    width="80" 
+    style="vertical-align: middle;"
+  />
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=23&duration=3003&pause=1000&color=EA1CF3&vCenter=true&width=600&height=100&lines=GNU+bash%2C+version+5.2.21(1)-release+(x86_64-pc-linux-gnu);Starting+system...;Loading+modules...+done;Initializing+shell...;%3Elogin+anto426;Password%3A+********;%5B+OK+%5D+Authentication+successful;root%40anto426%23echo+%22Welcome+to+my+profile+%E2%99%A1%22;GNU+bash%2C+version+5.2.21(1)-release+(x86_64-pc-linux-gnu);%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%B5%B7%E5%8B%95%E4%B8%AD...;%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%81%BF%E4%B8%AD...+%E5%AE%8C%E4%BA%86;%E3%82%B7%E3%82%A7%E3%83%AB%E5%88%9D%E6%9C%9F%E5%8C%96%E4%B8%AD...;%3Elogin+%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8D%E3%83%83%E3%83%AD;%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%3A+********;%5B+OK+%5D+%E8%AA%8D%E8%A8%BC%E6%88%90%E5%8A%9F;root%40%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8D%E3%83%83%E3%83%AD%23echo+%22%E7%A7%81%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D+%E2%99%A1%22" 
+      alt="Typing SVG" 
+      style="vertical-align: middle;"
+    />
+  </a>
 </p>
 
-<hr style="width:70%; border: none; border-top: 1.5px solid rgba(106,13,173,0.15); margin: 30px auto;">
+---
 
-<h2 style="color:#6a0dad;">🔗 My Site</h2>
-<p style="font-size:1.05em;">
-    <a href="https://anto426.github.io/Antosite/" target="_blank" style="background:linear-gradient(90deg,#7c3aed,#9b5de5); color:#fff; text-decoration:none; font-weight:600; display:inline-block; padding:8px 14px; border-radius:10px; box-shadow:0 6px 18px rgba(106,13,173,0.18);">
-        🚀 Visita il mio sito personale
-    </a>
+# About me 
+
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@anto426?theme=moebooru"/>
 </p>
 
-<hr style="width:70%; border: none; border-top: 1.5px solid rgba(106,13,173,0.15); margin: 30px auto;">
-
-<h2 style="color:#6a0dad;">🛠️ My Skills</h2>
-
-<table align="center" style="border-collapse:separate; border-spacing:18px 14px; max-width:880px;">
-    <tr>
-        <td align="center" style="background:linear-gradient(135deg,#3a0050,#6a0dad); color:#fff; border-radius:14px; box-shadow:0 8px 24px rgba(106,13,173,0.18); padding:18px;">
-            <b style="font-size:1.05em; color:#f6edff;">🌐 Languages</b><br>
-            <img src="https://skillicons.dev/icons?i=js,c,cpp,java,kotlin,py,html,css" alt="Languages" style="margin:10px 0;"><br>
-            <span style="font-size:0.95em; color:#efe6ff;">JavaScript, C, C++, Java, Kotlin, Python, HTML, CSS</span>
-        </td>
-        <td align="center" style="background:linear-gradient(135deg,#3a0050,#6a0dad); color:#fff; border-radius:14px; box-shadow:0 8px 24px rgba(106,13,173,0.18); padding:18px;">
-            <b style="font-size:1.05em; color:#f6edff;">🖥️ Frameworks & Libraries</b><br>
-            <img src="https://skillicons.dev/icons?i=discordjs,nodejs,bootstrap" alt="Frameworks" style="margin:10px 0;"><br>
-            <span style="font-size:0.95em; color:#efe6ff;">Discord.js, Node.js, Bootstrap</span>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" style="background:linear-gradient(135deg,#3a0050,#6a0dad); color:#fff; border-radius:14px; box-shadow:0 8px 24px rgba(106,13,173,0.18); padding:18px;">
-            <b style="font-size:1.05em; color:#f6edff;">🛠️ Tools</b><br>
-            <img src="https://skillicons.dev/icons?i=vscode,git,androidstudio,blender" alt="Tools" style="margin:10px 0;"><br>
-            <span style="font-size:0.95em; color:#efe6ff;">VS Code, Git, Android Studio, Blender</span>
-        </td>
-        <td align="center" style="background:linear-gradient(135deg,#3a0050,#6a0dad); color:#fff; border-radius:14px; box-shadow:0 8px 24px rgba(106,13,173,0.18); padding:18px;">
-            <b style="font-size:1.05em; color:#f6edff;">💻 Operating Systems</b><br>
-            <img src="https://skillicons.dev/icons?i=windows,arch" alt="Operating Systems" style="margin:10px 0;"><br>
-            <span style="font-size:0.95em; color:#efe6ff;">Windows, Arch Linux</span>
-        </td>
-    </tr>
-</table>
-
-<hr style="width:70%; border: none; border-top: 1.5px solid rgba(106,13,173,0.15); margin: 30px auto;">
-
-<h2 style="color:#6a0dad;">🔍 Visitors</h2>
-<img src="https://count.getloli.com/get/@:anto426?theme=purple" alt="Visitor count" style="margin-bottom:12px; border-radius:10px; box-shadow:0 8px 20px rgba(106,13,173,0.12);">
-
-<hr style="width:70%; border: none; border-top: 1.5px solid rgba(106,13,173,0.15); margin: 30px auto;">
-
-<h2 style="color:#6a0dad;">📊 GitHub Stats</h2>
-<table align="center" style="width:92%; max-width:920px; border-collapse:collapse;">
-    <tr>
-        <td align="center" style="padding:10px;">
-            <img src="https://github-readme-stats.vercel.app/api?username=Anto426&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=6a0dad&title_color=f6edff&text_color=eae2ff&icon_color=ffffff&card_width=600" alt="Anto426's GitHub Stats" style="border-radius:18px; max-width:100%;">
-        </td>
-        <td align="center" style="padding:10px;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anto426&layout=compact&hide_border=true&bg_color=6a0dad&title_color=f6edff&text_color=eae2ff&card_width=300&langs_count=8" alt="Top Languages" style="border-radius:18px; max-width:100%;">
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center" style="padding-top:12px;">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anto426&hide_border=true&background=6a0dad&stroke=f6edff&ring=f6edff&fire=ffffff" alt="GitHub Streak" style="border-radius:18px; max-width:100%;">
-        </td>
-    </tr>
-</table>
+###
