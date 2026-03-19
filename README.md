@@ -36,9 +36,40 @@ root@anto426: ~/my_readme (main⚡)$ neofetch
   <img src="./asset/divider.gif" width="440" height="40" />
 </p>
 
+# <img src="./asset/icon2.gif" width="70px" /> Skill;
+
+```sh
+root@anto426: ~/my_readme (main⚡)$ skill --list
+
+> main:
+  - JavaScript (Node.js)
+  - SQL (MySQL)
+  - Kotlin
+  - Python
+  - C/C++
+  - Java
+
+> tools:
+  - Git
+  - Docker
+  - Vscode
+  - Android Studio
+
+> os:
+  - Windows
+  - Arch Linux
+  - Android
+```
+
+<p align="center">
+  <img src="./asset/divider.gif" width="440" height="40" />
+</p>
+
+# <img src="./asset/icon3.gif" width="70px" /> Statistics;
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anto426&layout=compact&theme=tokyonight)
+
 <icon>
 <p align="center">
   <img src="https://count.getloli.com/get/@anto426?theme=moebooru"/>
 </p>
-
-###
