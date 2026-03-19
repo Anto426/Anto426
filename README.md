@@ -102,7 +102,7 @@ status: synced 2026-03-19 22:58 UTC
   <img src="./asset/divider.gif" width="440" height="40" />
 </p>
 
-# <img src="./asset/icon3.gif" width="70px" /> Visitors;
+# <img src="./asset/icon4.gif" width="70px" /> Visitors;
 
 <icon>
 <p align="center">
