@@ -10,10 +10,26 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="./asset/divider.gif" width="440" height="40" />
+</p>
 
-# About me
+<p>
+  <img src="./asset/icon.gif" width="70" style="vertical-align: middle; margin-right: 10px;" />
+  <span style="font-size: 28px; font-weight: bold; vertical-align: middle;">
+    About me
+  </span>
+</p>
 
+```sh
+root@anto426: ~/my_readme (main⚡)$ neofetch
+```
+
+<p align="right">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=23&duration=2998&pause=1000&color=EA1CF3&multiline=true&repeat=false&width=700&height=300&lines=My+Profile;-------------------------------;Host%3A+anto426.com;Username%3A+anto426;WhoamI%3A+Normal+People.;Pronouns%3A+He-Him.;Location%3A+italy;Hobbies%3A+Watching+Anime%2C+Read+Manga%2C+and+Listening+Music" alt="Typing SVG" /></a>
+</p>
+
+<icon>
 <p align="center">
   <img src="https://count.getloli.com/get/@anto426?theme=moebooru"/>
 </p>
