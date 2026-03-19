@@ -69,29 +69,28 @@ root@anto426: ~/my_readme (main⚡)$ skill --list
 
 <!-- commit-stats:start -->
 ```sh
-root@Anto426: ~/my_readme (main⚡)$ git stats --since 30d
+root@Anto426: ~/my_readme (main⚡)$ btop --preset commits --range 30d
 
-> overview:
-  - profile: アントネッロ
-  - active repositories: 7
-  - coding days: 22
-  - latest commit: 2026-03-19 21:54 UTC
++- commits.sys                        -+  +- repo.activity                      -+
+| profile    アントネッロ                    |  | 1. Uniapp         145 |##########|   |
+| window     30d                       |  | 2. UniappUpstream  40 |###.......|   |
+| active     7 repos                   |  | 3. Antobot         38 |###.......|   |
+| days       22 coding days            |  | 4. UniappServer    34 |##........|   |
+| latest     2026-03-19 22:12 UTC      |  | 5. Anto426         15 |#.........|   |
+| source     github api (Anto426)      |  +--------------------------------------+
++--------------------------------------+
 
-> activity:
-  - last 24h: 32
-  - last 7 days: 99
-  - last 30 days: 290
++- throughput                         -+  +- last.7.days                        -+
+| 24h    33 |##................|       |  | Fri 13   8 |####..............|      |
+| 7d     98 |######............|       |  | Sat 14   6 |###...............|      |
+| 30d   291 |##################|       |  | Sun 15  14 |########..........|      |
+| avg    9.7 |#.................|      |  | Mon 16   6 |###...............|      |
+| peak   48 |###...............|       |  | Tue 17   8 |####..............|      |
++--------------------------------------+  | Wed 18  19 |###########.......|      |
+                                          | Thu 19  32 |##################|      |
+                                          +--------------------------------------+
 
-> top repositories:
-  - Anto426-Project/Uniapp: 145 commits
-  - Anto426-Project/UniappUpstream: 40 commits
-  - Anto426-Project/Antobot: 38 commits
-  - Anto426-Project/UniappServer: 34 commits
-  - Anto426/Anto426: 15 commits
-
-> status:
-  - last update: 2026-03-19 21:54 UTC
-  - source: github api (Anto426)
+status: synced 2026-03-19 22:13 UTC
 
 ```
 <!-- commit-stats:end -->
