@@ -68,31 +68,32 @@ root@anto426: ~/my_readme (main⚡)$ skill --list
 # <img src="./asset/icon3.gif" width="70px" /> Statistics;
 
 <!-- commit-stats:start -->
-
 ```sh
-root@anto426: ~/my_readme (main⚡)$ git stats --since 30d
-
-Loading commit activity...
+root@Anto426: ~/my_readme (main⚡)$ git stats --since 30d
 
 > overview:
-  - profile: Anto426
-  - active repositories: ...
-  - coding days: ...
-  - latest commit: ...
+  - profile: アントネッロ
+  - active repositories: 7
+  - coding days: 22
+  - latest commit: 2026-03-19 21:54 UTC
 
 > activity:
-  - last 24h: ...
-  - last 7 days: ...
-  - last 30 days: ...
+  - last 24h: 32
+  - last 7 days: 99
+  - last 30 days: 290
 
 > top repositories:
-  - loading...
+  - Anto426-Project/Uniapp: 145 commits
+  - Anto426-Project/UniappUpstream: 40 commits
+  - Anto426-Project/Antobot: 38 commits
+  - Anto426-Project/UniappServer: 34 commits
+  - Anto426/Anto426: 15 commits
 
 > status:
-  - last update: pending
+  - last update: 2026-03-19 21:54 UTC
   - source: github api (Anto426)
-```
 
+```
 <!-- commit-stats:end -->
 
 <p align="center">
