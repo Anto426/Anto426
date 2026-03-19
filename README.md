@@ -70,7 +70,7 @@ root@anto426: ~/my_readme (main⚡)$ skill --list
 <!-- commit-stats:start -->
 
 ```sh
-root@anto426: ~/my_readme (main)$ git stats --since 30d
+root@anto426: ~/my_readme (main⚡)$ git stats --since 30d
 
 Loading commit activity...
 
