@@ -69,6 +69,10 @@ root@anto426: ~/my_readme (main⚡)$ skill --list
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anto426&layout=compact&theme=tokyonight)
 
+<p align="center">
+  <img src="./asset/divider.gif" width="440" height="40" />
+</p>
+
 <icon>
 <p align="center">
   <img src="https://count.getloli.com/get/@anto426?theme=moebooru"/>
