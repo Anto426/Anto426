@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/87477585?v=4&w=300&h=300&mask=circle&fit=cover" 
+    src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/87477585?v=5&w=300&h=300&mask=circle&fit=cover" 
     width="200"
   />
 </p>
