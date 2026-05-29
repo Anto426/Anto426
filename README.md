@@ -104,21 +104,39 @@ status: synced 2026-05-29 08:09 UTC
 
 # <img src="./asset/icon1.gif" width="70px" /> My Organizations;
 
-<p align="center">
-  <a href="https://github.com/Arch-repo" target="_blank">
-    <img src="https://wsrv.nl/?url=github.com/Arch-repo.png&w=120&h=120&mask=circle&fit=cover" width="100" alt="Arch-repo" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Anto426-Project" target="_blank">
-    <img src="https://wsrv.nl/?url=github.com/Anto426-Project.png&w=120&h=120&mask=circle&fit=cover" width="100" alt="Anto426-Project" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="250">
+        <br />
+        <a href="https://github.com/Arch-repo" target="_blank">
+          <img src="https://wsrv.nl/?url=github.com/Arch-repo.png&w=120&h=120&mask=circle&fit=cover" width="100" alt="Arch-repo" />
+        </a>
+        <h3>Arch-repo</h3>
+        <p><i>Aesthetic Wayland Ecosystem</i></p>
+        <a href="https://github.com/Arch-repo">
+          <img src="https://img.shields.io/badge/Explore-8cb8e4?style=for-the-badge&logo=github&logoColor=white" height="25" />
+        </a>
+        <br />
+        <br />
+      </td>
+      <td align="center" width="250">
+        <br />
+        <a href="https://github.com/Anto426-Project" target="_blank">
+          <img src="https://wsrv.nl/?url=github.com/Anto426-Project.png&w=120&h=120&mask=circle&fit=cover" width="100" alt="Anto426-Project" />
+        </a>
+        <h3>Anto426-Project</h3>
+        <p><i>Personal Core Repositories</i></p>
+        <a href="https://github.com/Anto426-Project">
+          <img src="https://img.shields.io/badge/Explore-ea1cf3?style=for-the-badge&logo=github&logoColor=white" height="25" />
+        </a>
+        <br />
+        <br />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <strong><a href="https://github.com/Arch-repo">Arch-repo</a></strong> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong><a href="https://github.com/Anto426-Project">Anto426-Project</a></strong>
-</p>
 
 <p align="center">
   <img src="./asset/divider.gif" width="440" height="40" />
