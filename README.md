@@ -32,6 +32,8 @@ root@anto426: ~/my_readme (main⚡)$ neofetch
 ⠜⠋⢠⣷⢻⣿⣿⣶⣾⣿⣿⣿⣿⠿⣛⣥⣾⣿⠿⠟⠛⠉⠄⠄ . .
 ```
 
+> 🛠️ **Founder & Lead Developer of the [Arch-repo](https://github.com/Arch-repo) ecosystem** — a cohesive, premium, and fully dynamic Wayland/Hyprland desktop environment on Arch Linux.
+
 <p align="center">
   <img src="./asset/divider.gif" width="440" height="40" />
 </p>
