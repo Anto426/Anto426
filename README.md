@@ -61,6 +61,8 @@ root@anto426: ~/my_readme (main⚡)$ skill --list
   - Android
 ```
 
+> 🔗 **[my config arch](https://github.com/Arch-repo)**
+
 <p align="center">
   <img src="./asset/divider.gif" width="440" height="40" />
 </p>
