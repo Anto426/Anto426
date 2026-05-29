@@ -59,7 +59,7 @@ root@anto426: ~/my_readme (main⚡)$ skill --list
 
 > os:
   - Windows
-  - Arch Linux
+  - Arch Linux (btw ❄️)
   - Android
 ```
 
