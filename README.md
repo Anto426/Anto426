@@ -67,46 +67,32 @@ root@anto426: ~/my_readme (main⚡)$ skill --list
 # <img src="./asset/icon3.gif" width="70px" /> Statistics;
 
 <!-- commit-stats:start -->
-## 📊 GitHub Commit Stats
+```sh
+root@Anto426: ~/my_readme (main⚡)$ btop --preset commits --range 30d
+
++- commits.sys                       -+    +- repo.activity                     -+
+| profile    アントネッロ             |    | 1. uniapp          31 [##########]  |
+| window     30d                      |    | 2. antobot         20 [######....]  |
+| active     20 repos                 |    | 3. uniapp-upst...  17 [#####.....]  |
+| days       18 coding days           |    | 4. discord-bot...  16 [#####.....]  |
+| latest     2026-09-07 16:33 UTC     |    | 5. Liquid-Monet    14 [#####.....]  |
+| source     github (Anto426)         |    |                                     |
++-------------------------------------+    +-------------------------------------+
 
 
-### 📌 Overview
++- throughput                        -+    +- last.7.days                       -+
+| 24h      15 [##................]    |    | Tue 01   4 [###...............]     |
+| 7d       47 [#####.............]    |    | Wed 02   2 [#.................]     |
+| 30d     155 [##################]    |    | Thu 03   1 [#.................]     |
+| avg     5.2 [#.................]    |    | Fri 04   0 [..................]     |
+| peak     43 [#####.............]    |    | Sat 05   5 [####..............]     |
+| days     18 [###########.......]    |    | Sun 06  25 [##################]     |
+| repos    20 [######............]    |    | Mon 07  10 [#######...........]     |
++-------------------------------------+    +-------------------------------------+
 
-| Metric              | Value                |
-|---------------------|----------------------|
-| Profile             | アントネッロ         |
-| Time Window         | 30 days              |
-| Active Repositories | 20                   |
-| Coding Days         | 18 days              |
-| Total Commits       | 154                  |
-| Daily Average       | 5.1 commits/day      |
-| Daily Peak          | 43 commits           |
-| Latest Commit       | 2026-09-07 16:25 UTC |
+status: synced 2026-09-07 16:33 UTC
 
-### 🏆 Top Repositories
-
-|   # | Repository       | Commits   | Activity       |
-|-----|------------------|-----------|----------------|
-|   1 | uniapp           | **31**    | `████████████` |
-|   2 | antobot          | **20**    | `████████░░░░` |
-|   3 | uniapp-upstream  | **17**    | `███████░░░░░` |
-|   4 | discord-bot-core | **16**    | `██████░░░░░░` |
-|   5 | Liquid-Monet     | **14**    | `█████░░░░░░░` |
-
-### 📈 Last 7 Days Activity
-
-| Day    |   Commits | Trend            |
-|--------|-----------|------------------|
-| Tue 01 |         4 | `██░░░░░░░░░░░░` |
-| Wed 02 |         2 | `█░░░░░░░░░░░░░` |
-| Thu 03 |         1 | `█░░░░░░░░░░░░░` |
-| Fri 04 |         0 | `░░░░░░░░░░░░░░` |
-| Sat 05 |         5 | `███░░░░░░░░░░░` |
-| Sun 06 |        25 | `██████████████` |
-| Mon 07 |         9 | `█████░░░░░░░░░` |
-
-
-*Last updated: 2026-09-07 16:27 UTC*
+```
 <!-- commit-stats:end -->
 
 <p align="center">
